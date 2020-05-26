@@ -1,4 +1,4 @@
-![Image-Super-Resolution]()
+![Image-Super-Resolution](https://miro.medium.com/max/6000/1*HQxitL28dDEKe1dPp9wdmQ.png)
 # Image Super Resolution Using Supervised Machine Learning Techniques
 We obtained the Super Resolution Images Dataset from **http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html** and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of Convolutional Neural Network for Image Restoration.
 ## A. Feature Selection
